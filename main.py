@@ -100,7 +100,7 @@ class CaloriesCalculator(Calculator):
             return('Хватит есть!')
 
 
-# WARN: отсутствует документирование класса
+# отсутствует документирование класса
 class CashCalculator(Calculator):
     # PEP требует давать lowercase имена переменным
     # usd_rate и euro_rate
